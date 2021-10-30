@@ -1,4 +1,14 @@
-## Welcome to GitHub Pages
+# Семейное и заочное образование
+
+## Часто задаваемые вопросы
+[Законодательство](# Законодательство)
+[Семейное образование](# Семейное образование)
+[Заочное образование](# Заочное образование)
+
+# Законодательство
+# Семейное образование
+# Заочное образование
+
 
 You can use the [editor on GitHub](https://github.com/demchikova/tutor/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
 
