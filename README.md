@@ -1,53 +1,46 @@
 # Семейное и заочное образование
 
+Приветствуем вас в библиотеке знаний о семейном и заочном образовании в России. Проект создан командой сообщества [Москва и МО. Семейное образование](https://t.me/joinchat/ZKhLFj0mLqI1NzMy). Здесь вы найдёте всю инормацию о переходе на семейное и заочное образование: законодательные нормы, бланки заявлений, алгоритм действий, варианты решений административных и образовательных задач.
+
+Если вы нашли ответа на свой вопрос, отправьте его в чат сообщества.
+
 ## Часто задаваемые вопросы
+
+[В чём разница между семейным и заочным образованием?](### В чём разница между семейным и заочным образованием)
+
+[Алгоритм перехода на семейное образование](### Алгоритм перехода на семейное образование)
+
+[Алгоритм перехода на заочное образование](### Алгоритм перехода на заочное образование)
+
+[Другие формы образования](### Другие формы образования)
+
+[Бланки заявлений](### Бланки заявлений)
 
 [Законодательство](### Законодательство)
 
-[Семейное образование](### Семейное образование)
+[Выбор платформы для аттестации](### Выбор платформы для аттестации)
 
-[Заочное образование](### Заочное образование)
+[Выбор онлайн-школы](### Выбор онлайн-школы)
 
+[Построение индивидуального образовательного маршрута](### Построение индивидуального образовательного маршрута)
+
+### В чём разница между семейным и заочным образованием
+
+### Алгоритм перехода на семейное образование
+
+### Алгоритм перехода на заочное образование
+
+### Другие формы образования
+
+### Бланки заявлений
 
 ### Законодательство
 
-### Семейное образование
+### Выбор платформы для аттестации
 
-### Заочное образование
+### Выбор онлайн-школы
+
+### Построение индивидуального образовательного маршрута
 
 
-You can use the [editor on GitHub](https://github.com/demchikova/tutor/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/demchikova/tutor/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
