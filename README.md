@@ -183,4 +183,4 @@
 
 -------------
 
-[Библиотека знаний о семейном образовании в России](https://demchikova.github.io/tutor/) © 2021, автор [Анастасия Демчикова](https://www.instagram.com/tutor.demchikova/) , опубликовано в соответствии с лицензией [CC BY-NC 4.0](http://creativecommons.org/licenses/by-nc/4.0/?ref=chooser-v1) 
+[Библиотека знаний о семейном образовании в России](https://demchikova.github.io/tutor/) © 2021, автор [Анастасия Демчикова](https://www.instagram.com/tutor.demchikova/), опубликовано в соответствии с лицензией [CC BY-NC 4.0](http://creativecommons.org/licenses/by-nc/4.0/?ref=chooser-v1) 
